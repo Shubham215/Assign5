@@ -1,0 +1,4 @@
+References: 
+1) https://www.baeldung.com/java-aes-encryption-decryption.
+2) https://www.baeldung.com/java-rsa.
+3) https://howtodoinjava.com/java/java-security/sha-md5-file-checksum-hash/.
